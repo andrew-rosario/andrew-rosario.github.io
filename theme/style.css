@@ -1,8 +1,10 @@
 html, body {
-  font-family: 'Gabarito', sans-serif;
   margin: 5em;
   border: 0;
   font-size: 100%;
   background-color: #ffffff;
   color: #000000;
+}
+p{
+  font-family: 'Gabarito', sans-serif;
 }
